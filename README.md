@@ -9,7 +9,7 @@ We will use `$ROOT` to refer to the root folder of this project, i.e., the folde
 After downloading the source code, navigate to the root folder and create a conda environment:
 ```
 cd $ROOT
-conda create env -f environment.yml
+conda env create -f environment.yml
 conda activate cpmtl
 ```
 
