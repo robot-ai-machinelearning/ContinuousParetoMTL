@@ -13,9 +13,9 @@ class Zdt2Variant(object):
         self.eval_hvp_cnt = 0
 
     def reset_count(self):
-        self.eval_f_cnt += 1
-        self.eval_grad_cnt += 1
-        self.eval_hvp_cnt += 1
+        self.eval_f_cnt = 0
+        self.eval_grad_cnt = 0
+        self.eval_hvp_cnt = 0
 
     def __remap(self, x):
         x = ndarray(x).ravel()
