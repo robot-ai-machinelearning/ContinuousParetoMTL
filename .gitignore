@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 __pycache__/
+
+MultiMNISTSubset/train-images-idx3-ubyte
+MultiMNISTSubset/train-labels-idx1-ubyte
