@@ -16,7 +16,7 @@ conda activate cpmtl
 ## Examples
 Open up a terminal to launch Jupyter:
 ```
-jupyter lab
+jupyter notebook
 ```
 You can run the following Jupyter script to reproduce figures in the paper:
 ```
