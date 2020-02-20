@@ -23,5 +23,6 @@ You can run the following Jupyter script to reproduce figures in the paper:
 fig2.ipynb
 fig3.ipynb
 fig4.ipynb
-fig5.ipynb
+fig5_multimnist.ipynb
+fig5_uci.ipynb
 ```
