@@ -1,6 +1,6 @@
 # Efficient Continuous Pareto Exploration in Multi-Task Learning
 
-## Requirements
+## Recommended Configuration
 - Ubuntu 18.04 or higher;
 - conda 4.8 or higher.
 
@@ -24,6 +24,4 @@ fig2.ipynb
 fig3.ipynb
 fig4.ipynb
 fig5.ipynb
-fig6.ipynb
-fig7.ipynb
 ```
